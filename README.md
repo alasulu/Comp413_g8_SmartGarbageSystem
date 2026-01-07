@@ -21,8 +21,7 @@ The device runs on an **ESP32-WROVER**, samples low-cost sensors on-device, appl
 
 **Blynk Dashboard**
 - Default: ![Blynk Default](assets/blynk_default.png)
-- Event (tilt): ![Blynk Event](assets/blynk_event.png)
-- Filled: ![Blynk Filled](assets/blynk_filled.png)
+- Filled and Tilted: ![Blynk Filled](assets/blynk_filled.png)
 
 ## Features
 - **Fill monitoring** (KY-032, top-mounted upside down) → outputs a service-needed indicator.
