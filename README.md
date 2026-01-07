@@ -90,7 +90,7 @@ curl http://<ESP32_IP>/api/status
 5. Open WebUI: `http://<ESP32_IP>/`
 
 ## Documentation (Report PDF)
-- `docs/SmartGarbageSystem_Report.pdf`
+- [SmartGarbageSystem_Report.pdf](docs/COMP413Project_Report.pdf)
 
 ## Made by
 Oğuzhan Alasulu & Serkan Kıyaklı
