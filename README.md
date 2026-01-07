@@ -93,5 +93,5 @@ curl http://<ESP32_IP>/api/status
 ## Documentation (Report PDF)
 - `docs/SmartGarbageSystem_Report.pdf`
 
-## Security Note (important)
-If you previously committed Wi-Fi or Blynk tokens to GitHub, **rotate them** and commit a cleaned version.
+## Made by
+Oğuzhan Alasulu & Serkan Kıyaklı
