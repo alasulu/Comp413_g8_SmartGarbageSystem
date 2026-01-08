@@ -17,7 +17,8 @@ The device runs on an **ESP32-WROVER**, samples low-cost sensors on-device, appl
 **Local WebUI**
 - Default: ![WebUI Default](assets/webui_default.png)
 - Fire: ![WebUI Fire](assets/webui_fire.png)
-- Filled and Tilted: ![WebUI Filled](assets/webui_filled.png)
+- Filled: ![WebUI Filled](assets/webui_filled.png)
+- Tilted: ![WebUI Filled](assets/webui_tilted.png)
 
 **Blynk Dashboard**
 - Default: ![Blynk Default](assets/blynk_default.png)
